@@ -1,9 +1,7 @@
-uppanel{
+.uppanel{
     position:absolute;
     top: 5%
     left: 50%
     transform: translate(-50%, -50%);
-}
-.panel {
-background-color: #f00;
+    background-color: #ffffff;
 }
